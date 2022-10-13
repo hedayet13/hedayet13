@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hedayet13
-- 👀 I'm an electrical engineer specializing in embedded systems, medical image processing and occasionally designing and coding. Currently, I'm focused on surface engineering and Biomedical science.
+### 👋 Hi, I’m Hedayetul Islam
+👀  I'm an electrical engineer specializing in embedded systems, medical image processing and occasionally designing and coding. Currently, I'm focused on surface engineering and Biomedical science.
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

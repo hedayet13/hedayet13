@@ -1,7 +1,5 @@
 ### 👋 Hi, I’m Hedayetul Islam
-👀  I'm an electrical engineer specializing in embedded systems, medical image processing and occasionally designing and coding. Currently, I'm focused on surface engineering and Biomedical science.
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
+👀  I am an electrical engineer with a specialization in embedded systems, bio-surface modeling, medical image processing and coding. Currently, I’m fully captivating in the field of Bio-Engineering, where i harness my expertise to drive innovation and make positive impact 🌱.
 - 📫 How to reach me ...
 
 <!---
@@ -37,7 +35,7 @@ You can click the Preview link to take a look at your changes.
     </tr>
 </table> -->
 
-
+# My expertise
 ### 💻 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

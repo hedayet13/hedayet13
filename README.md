@@ -1,6 +1,6 @@
 # 👋 Hi, I’m [Hedayetul Islam](https://hedayet13.github.io/)
 
-👀  I am an electrical engineer with a specialization in embedded systems, bio-surface modeling, medical image processing and coding. Currently, I’m fully captivating in the field of Bio-Engineering, where i harness my expertise to drive innovation and make positive impact 🌱.
+👀  I am an electrical engineer with a specialization in embedded systems, bio-surface modeling, medical image processing and coding. Currently, I’m fully captivating in the field of Wearable sensors and Bio-Engineering, where i harness my expertise to drive innovation and make positive impact 🌱.
 - 📫 How to reach me 
 
 <!---

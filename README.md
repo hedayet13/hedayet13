@@ -1,7 +1,9 @@
 # 👋 Hi, I’m [Hedayetul Islam](https://hedayet13.github.io/)
 
 👀  I am an electrical engineer with a specialization in embedded systems, bio-surface modeling, medical image processing and coding. Currently, I’m fully captivating in the field of Wearable sensors and Bio-Engineering, where i harness my expertise to drive innovation and make positive impact 🌱.
-- 📫 How to reach me 
+- 🏫 I am open for **PhD position** in the field of Medical Image Analysis, Computer Vision, Non-invasive Health Monitoring, Soft Robotics, Machine Learning and Bio engineering.
+- 📫 To reach me please send an email to **islamhedayet67@gmail.com**
+
 
 <!---
 hedayet13/hedayet13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

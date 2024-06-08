@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
         </td>
     </tr>
 </table> -->
-
+<!--
 ## My expertise
 ### 💻 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -157,10 +157,8 @@ You can click the Preview link to take a look at your changes.
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
+-->
 
-
-
----
 
 ---
 
